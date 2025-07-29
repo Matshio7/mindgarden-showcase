@@ -28,9 +28,9 @@ Die App möchte ein ruhiger, freundlicher Begleiter sein – ganz ohne Druck, ab
 ## 🎨 Designvorschau
 
 <p align="center">
-  <img src="assets/screenshot-today-light.jpeg" width="250" alt="Today Screen">
-  <img src="assets/screenshot-mindful-light.jpeg" width="250" alt="Mindful Practice Screen">
-  <img src="assets/screenshot-garden-dark.jpeg" width="250" alt="Garden Cycle Screen">
+  <img src="assets/screenshot-today-light.png" width="250" alt="Today Screen">
+  <img src="assets/screenshot-mindful-light.png" width="250" alt="Mindful Practice Screen">
+  <img src="assets/screenshot-garden-dark.png" width="250" alt="Garden Cycle Screen">
 </p>
 
 <details>
