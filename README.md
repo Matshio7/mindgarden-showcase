@@ -35,7 +35,7 @@ Die Idee: Selbstfürsorge soll sich nicht wie eine Pflicht anfühlen, sondern wi
 
 ## 🚧 Aktueller Stand
 
-> Version: `v0.1.0-alpha`  
+> Version: `v0.1.2-alpha`  
 > MindGarden befindet sich derzeit in aktiver Entwicklung. Der Code ist bewusst **nicht öffentlich** – Fokus liegt aktuell auf Vision, Design und Tests.
 
 ---
