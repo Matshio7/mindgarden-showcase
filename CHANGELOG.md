@@ -8,10 +8,14 @@ und verwendet [Semantic Versioning](https://semver.org/lang/de/).
 ---
 
 ## [0.1.2-alpha] – 2025-07-29
-### Hinzugefügt
-- Neue Design-Vorschau ergänzt
-- README überarbeitet
-- Erste Screenshots im Showcase integriert
+### Geändert
+- Visuelles Redesign und strukturelle Anpassungen der App
+- Hauptbildschirm neu gestaltet
+- Neue Screenshots im Showcase ersetzt & ergänzt
+- README.md aktualisiert mit `details`-Klappmechanismus
+
+### Build
+- `1350069-2`
 
 ---
 
